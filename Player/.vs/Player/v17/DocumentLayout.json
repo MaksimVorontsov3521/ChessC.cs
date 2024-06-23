@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "X:\\program\\ChessC#\\Player\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3EF9E42-71FD-44D0-A1EB-BB03509C4DC3}|Player\\Player.csproj|x:\\program\\chessc#\\player\\player\\movefigures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EF9E42-71FD-44D0-A1EB-BB03509C4DC3}|Player\\Player.csproj|solutionrelative:player\\movefigures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3EF9E42-71FD-44D0-A1EB-BB03509C4DC3}|Player\\Player.csproj|x:\\program\\chessc#\\player\\player\\chess.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B3EF9E42-71FD-44D0-A1EB-BB03509C4DC3}|Player\\Player.csproj|solutionrelative:player\\chess.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -18,24 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "MoveFigures.cs",
+              "DocumentMoniker": "X:\\program\\ChessC#\\Player\\Player\\MoveFigures.cs",
+              "RelativeDocumentMoniker": "Player\\MoveFigures.cs",
+              "ToolTip": "X:\\program\\ChessC#\\Player\\Player\\MoveFigures.cs",
+              "RelativeToolTip": "Player\\MoveFigures.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:36:03.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Chess.xaml.cs",
               "DocumentMoniker": "X:\\program\\ChessC#\\Player\\Player\\Chess.xaml.cs",
               "RelativeDocumentMoniker": "Player\\Chess.xaml.cs",
               "ToolTip": "X:\\program\\ChessC#\\Player\\Player\\Chess.xaml.cs",
               "RelativeToolTip": "Player\\Chess.xaml.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBcAAAAiAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAWwFkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T08:50:08.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Chess.xaml",
               "DocumentMoniker": "X:\\program\\ChessC#\\Player\\Player\\Chess.xaml",
               "RelativeDocumentMoniker": "Player\\Chess.xaml",
